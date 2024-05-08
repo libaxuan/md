@@ -46,3 +46,4 @@ httpData
 public/upload/**
 !public/upload/*.gitkeep
 .history
+.vercel
